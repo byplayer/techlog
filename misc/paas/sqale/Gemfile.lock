@@ -47,7 +47,7 @@ GEM
       yajl-ruby (~> 1.1.0)
     rack (1.5.2)
     rake (10.0.4)
-    redcarpet (2.2.2)
+    redcarpet (3.5.1)
     sequel (3.46.0)
     sprockets (2.9.3)
       hike (~> 1.2)
